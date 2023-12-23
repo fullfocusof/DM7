@@ -1,0 +1,4 @@
+﻿  Main.cpp
+E:\Projects\DiscreteMath\LR7\LR7\Main.cpp(170,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Projects\DiscreteMath\LR7\LR7\Main.cpp(253,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  LR7.vcxproj -> E:\Projects\DiscreteMath\LR7\x64\Debug\LR7.exe
